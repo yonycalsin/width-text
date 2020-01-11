@@ -1,9 +1,12 @@
 {
-    "noImplicitAny": true,
-    "target": "es2015",
-    "compilerOptions": {
-      "outDir": "./dist/",
-      "baseUrl": "./",
-      "removeComments": true,
-    }
+  "files": [
+    "src/index.ts"
+  ],
+  "noImplicitAny": true,
+  "target": "es2015",
+  "compilerOptions": {
+    "outDir": "./dist/",
+    "baseUrl": "./",
+    "removeComments": true,
   }
+}
