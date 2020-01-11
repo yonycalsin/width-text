@@ -1,0 +1,9 @@
+{
+    "noImplicitAny": true,
+    "target": "es2015",
+    "compilerOptions": {
+      "outDir": "./dist/",
+      "baseUrl": "./",
+      "removeComments": true,
+    }
+  }
